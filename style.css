@@ -1,0 +1,22 @@
+* {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.text {
+  color: red;
+  text-align: center;
+  background-color: chartreuse;
+}
+.img {
+  width: 46%;
+  height: 300px;
+  margin-left: 10px;
+}
+.marquee {
+  color: blue;
+}
+.rasm {
+  width: 350px;
+  height: 300px;
+  border-radius: 50%;
+}
